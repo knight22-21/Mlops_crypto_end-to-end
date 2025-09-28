@@ -6,3 +6,8 @@ python-dotenv
 prometheus_client
 uvicorn
 fastapi
+pandas 
+numpy 
+ta 
+psycopg2-binary 
+prometheus-client
