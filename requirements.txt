@@ -10,5 +10,4 @@ pandas
 numpy 
 ta 
 psycopg2-binary 
-
 prometheus-client
