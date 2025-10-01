@@ -2,7 +2,7 @@
 
 This repository implements an end-to-end data pipeline for collecting, processing, and feature engineering cryptocurrency price data, ready for downstream ML modeling and monitoring.
 
----
+--- 
 
 ## Project Overview
 
