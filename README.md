@@ -12,7 +12,7 @@ The goal of this project is to build a robust pipeline that:
 * Extracts and prepares raw data (`crypto_raw` table).
 * Performs feature engineering to create time-series features (`crypto_features` table).
 * Enables monitoring, metrics, and later modeling.
-
+ 
 The pipeline is designed with modular components to allow automation and extensibility.
 
 ---
